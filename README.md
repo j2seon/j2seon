@@ -4,4 +4,4 @@
 
 
 
-[![JAVA](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Javat&logoColor=#007396)](https://github.com/j2seon/Java)
+[![JAVA](https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Javat&logoColor=white)](https://github.com/j2seon/Java)
