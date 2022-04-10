@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   ## :crescent_moon: Contact :crescent_moon:
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https:)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](ddj04323@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https:ddj04323@gmail.com)
